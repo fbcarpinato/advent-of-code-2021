@@ -1,0 +1,23 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbcarpinato/advent-of-code-2021.git"
+  },
+  "keywords": [
+    "Code",
+    "AdventOfCode",
+    "2021"
+  ],
+  "author": "Fabio Carpinato <fabiocarpinato@outlook.it>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fbcarpinato/advent-of-code-2021/issues"
+  },
+  "homepage": "https://github.com/fbcarpinato/advent-of-code-2021#readme"
+}
