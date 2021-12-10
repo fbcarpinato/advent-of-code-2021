@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/fbcarpinato/advent-of-code-2021/issues"
   },
-  "homepage": "https://github.com/fbcarpinato/advent-of-code-2021#readme"
+  "homepage": "https://github.com/fbcarpinato/advent-of-code-2021#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "typescript": "^4.5.3",
+    "@types/jest": "^27.0.3",
+    "jest": "^27.4.4",
+    "ts-jest": "^27.1.1"
+  }
 }
